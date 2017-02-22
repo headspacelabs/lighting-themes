@@ -1,0 +1,7 @@
+﻿
+[display]
+trigger_dmx = yes
+trigger_keyboard = yes
+[live]
+dmx_on = yes
+fade_time = 300

@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1469179524" name="RBG #2" model="RBG"/>
+    <Fixture id="1469179525" name="RBG #3" model="RBG"/>
+    <Fixture id="1469179526" name="RBG #4" model="RBG"/>
+    <Fixture id="1469179527" name="RBG #5" model="RBG"/>
+    <Fixture id="1469179528" name="RBG #6" model="RBG"/>
+    <Fixture id="1469179529" name="RBG #7" model="RBG"/>
+    <Fixture id="1469179530" name="RBG #8" model="RBG"/>
+    <Fixture id="1469179531" name="RBG #9" model="RBG"/>
+    <Fixture id="1469179532" name="RBG #10" model="RBG"/>
+    <Fixture id="1469179533" name="RBG #11" model="RBG"/>
+    <Fixture id="1469179534" name="RBG #12" model="RBG"/>
+    <Fixture id="1469179414" name="RBG #1" model="RBG"/>
+    <Fixture id="1469179535" name="RBG #13" model="RBG"/>
+    <Fixture id="1469179536" name="RBG #14" model="RBG"/>
+    <Fixture id="1469179537" name="RBG #15" model="RBG"/>
+    <Fixture id="1469179538" name="RBG #16" model="RBG"/>
+    <Fixture id="1469179539" name="RBG #17" model="RBG"/>
+    <Fixture id="1469179540" name="RBG #18" model="RBG"/>
+    <Fixture id="1469179541" name="RBG #19" model="RBG"/>
+    <Fixture id="1469179542" name="RBG #20" model="RBG"/>
+    <Fixture id="1469179543" name="RBG #21" model="RBG"/>
+    <Fixture id="1469179544" name="RBG #22" model="RBG"/>
+    <Fixture id="1469179545" name="RBG #23" model="RBG"/>
+    <Fixture id="1469179546" name="RBG #24" model="RBG"/>
+    <Fixture id="1469179547" name="RBG #25" model="RBG"/>
+    <Fixture id="1469179548" name="RBG #26" model="RBG"/>
+    <Fixture id="1469179549" name="RBG #27" model="RBG"/>
+    <Fixture id="1469179550" name="RBG #28" model="RBG"/>
+    <Fixture id="1469179551" name="RBG #29" model="RBG"/>
+    <Fixture id="1469179552" name="RBG #30" model="RBG"/>
+    <Fixture id="1469179553" name="RBG #31" model="RBG"/>
+    <Fixture id="1469179554" name="RBG #32" model="RBG"/>
+    <Fixture id="1469179555" name="RBG #33" model="RBG"/>
+    <Fixture id="1469179556" name="RBG #34" model="RBG"/>
+    <Fixture id="1469179557" name="RBG #35" model="RBG"/>
+    <Fixture id="1469179558" name="RBG #36" model="RBG"/>
+    <Fixture id="1469179559" name="RBG #37" model="RBG"/>
+    <Fixture id="1469179560" name="RBG #38" model="RBG"/>
+    <Fixture id="1469179561" name="RBG #39" model="RBG"/>
+    <Fixture id="1469179562" name="RBG #40" model="RBG"/>
+    <Fixture id="1469179563" name="RBG #41" model="RBG"/>
+    <Fixture id="1469179564" name="RBG #42" model="RBG"/>
+    <Fixture id="1469179565" name="RBG #43" model="RBG"/>
+    <Fixture id="1469179566" name="RBG #44" model="RBG"/>
+    <Fixture id="1469179567" name="RBG #45" model="RBG"/>
+    <Fixture id="1469179568" name="RBG #46" model="RBG"/>
+  </Fixtures>
+  <Steps>
+    <Step length="100">
+      <Fixture id="1469179524">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179525">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179526">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179527">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179528">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179529">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179530">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179531">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179532">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179533">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179534">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179535">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179414">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179536">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179537">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179538">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179539">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179540">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179541">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179542">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179543">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179544">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179545">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179546">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179547">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179548">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179549">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179550">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179551">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179552">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179553">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179554">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179555">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179556">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179557">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179558">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179559">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179560">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179561">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179562">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179563">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179564">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179565">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179566">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179567">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="5" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179568">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1469179524">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179525">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179526">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179527">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179528">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179529">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179530">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179531">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179532">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179533">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179534">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179414">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179535">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179536">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179537">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179538">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179539">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179540">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179541">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179542">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179543">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179544">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179545">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179546">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179547">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179548">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179549">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179550">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179551">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179552">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179553">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179554">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179555">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179556">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179557">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179558">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179559">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179560">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179561">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179562">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179563">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179564">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179565">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179566">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179567">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179568">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="1" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1469179524">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179525">
+        <Channel index="0" name="red" value="2" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179526">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179527">
+        <Channel index="0" name="red" value="2" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179528">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179529">
+        <Channel index="0" name="red" value="2" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179530">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179531">
+        <Channel index="0" name="red" value="2" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179532">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179533">
+        <Channel index="0" name="red" value="2" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179534">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179535">
+        <Channel index="0" name="red" value="2" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179414">
+        <Channel index="0" name="red" value="2" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179536">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179537">
+        <Channel index="0" name="red" value="2" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179538">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179539">
+        <Channel index="0" name="red" value="2" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179540">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179541">
+        <Channel index="0" name="red" value="2" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179542">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179543">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179544">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179545">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179546">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179547">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179548">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179549">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179550">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179551">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179552">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179553">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179554">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179555">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179556">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179557">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179558">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179559">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179560">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179561">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179562">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179563">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179564">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179565">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179566">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179567">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="1" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179568">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1469179524">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179525">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="253" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179526">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179527">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="253" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179528">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179529">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="253" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179530">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179531">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="253" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179532">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179533">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="253" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179534">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179414">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="253" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179535">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="253" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179536">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179537">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="253" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179538">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179539">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="253" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179540">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179541">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="253" fade="1"/>
+        <Channel index="2" name="blue" value="251" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179542">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179543">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179544">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179545">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179546">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179547">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179548">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179549">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179550">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179551">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179552">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179553">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179554">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179555">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179556">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179557">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179558">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179559">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179560">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179561">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179562">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179563">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179564">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179565">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179566">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179567">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179568">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1469179524">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179525">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179526">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179527">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179528">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179529">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179530">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179531">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179532">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179533">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179534">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179535">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179414">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179536">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179537">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179538">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179539">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179540">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179541">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179542">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179543">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179544">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179545">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179546">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179547">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179548">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179549">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179550">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179551">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179552">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179553">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179554">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179555">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179556">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179557">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179558">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179559">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179560">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179561">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179562">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179563">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179564">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179565">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179566">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179567">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179568">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="252" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1469179524">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179525">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179526">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179527">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179528">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179529">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179530">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179531">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179532">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179533">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179534">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179414">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179535">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179536">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179537">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179538">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179539">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179540">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179541">
+        <Channel index="0" name="red" value="253" fade="1"/>
+        <Channel index="1" name="green" value="249" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179542">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179543">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179544">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179545">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179546">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179547">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179548">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179549">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179550">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179551">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179552">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179553">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179554">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179555">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179556">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179557">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179558">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179559">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179560">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179561">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179562">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179563">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179564">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179565">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179566">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179567">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179568">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="159" fade="1"/>
+        <Channel index="2" name="blue" value="13" fade="1"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1469179524">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="254" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179525">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="158" fade="1"/>
+        <Channel index="2" name="blue" value="42" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179526">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="254" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179527">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="158" fade="1"/>
+        <Channel index="2" name="blue" value="42" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179528">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="254" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179529">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="158" fade="1"/>
+        <Channel index="2" name="blue" value="42" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179530">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="254" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179531">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="158" fade="1"/>
+        <Channel index="2" name="blue" value="42" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179532">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="254" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179533">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="158" fade="1"/>
+        <Channel index="2" name="blue" value="42" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179534">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="254" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179535">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="158" fade="1"/>
+        <Channel index="2" name="blue" value="42" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179414">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="158" fade="1"/>
+        <Channel index="2" name="blue" value="42" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179536">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="254" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179537">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="158" fade="1"/>
+        <Channel index="2" name="blue" value="42" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179538">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="254" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179539">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="158" fade="1"/>
+        <Channel index="2" name="blue" value="42" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179540">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="254" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179541">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="158" fade="1"/>
+        <Channel index="2" name="blue" value="42" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179542">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="254" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179543">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179544">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179545">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179546">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179547">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179548">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179549">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179550">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179551">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179552">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179553">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179554">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179555">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179556">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179557">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179558">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179559">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179560">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179561">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179562">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179563">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179564">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179565">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179566">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179567">
+        <Channel index="0" name="red" value="254" fade="1"/>
+        <Channel index="1" name="green" value="6" fade="1"/>
+        <Channel index="2" name="blue" value="246" fade="1"/>
+      </Fixture>
+      <Fixture id="1469179568">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="0" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>
